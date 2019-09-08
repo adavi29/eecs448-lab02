@@ -1,6 +1,6 @@
 /**
-*	@author
-*	@date
+*	@author Abigail Davidow
+*	@date 9/8/19
 *	@file LinkedList.hpp
 *	@brief Implementation file for templated LinkedList class
 */
